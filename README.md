@@ -8,7 +8,7 @@ A collection of laboratory work for the **Computer Architecture** course, includ
 | ---------- | ---------------------- | ------------------ |
 | **Lab 01** | Basic Circuits         | ✅ Completed        |
 | **Lab 02** | Combinational Circuits | ✅ Completed        |
-| **Lab 03** | —                      | 🔲 Yet to be added |
+| **Lab 03** | Behavioral-level Verilog | ✅ Completed |
 | **Lab 04** | —                      | 🔲 Yet to be added |
 | **Lab 05** | —                      | 🔲 Yet to be added |
 | **Lab 06** | —                      | 🔲 Yet to be added |
